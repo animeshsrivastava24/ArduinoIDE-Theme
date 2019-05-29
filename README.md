@@ -1,2 +1,11 @@
-# ArduinoIDE-Theme
-The Repository is designed to focus on providing description to the Arduino Theme and Design
+ArduinoIDE-Theme
+=============
+
+This repository is the designed to provide Guide to Working of the Theme Editor and its implementation
+
+
+
+Contributing
+------------
+
+See [Contributing](CONTRIBUTING.md).
